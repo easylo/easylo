@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-
+<!--
 [!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/laurentrichard)
 
-<!--
+
 **easylo/easylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
